@@ -1,0 +1,7 @@
+com\cesde\coursemanager\model\Teacher.class
+com\cesde\coursemanager\CourseManagerApplication.class
+com\cesde\coursemanager\controller\TeacherController.class
+com\cesde\coursemanager\repository\TeacherRepository.class
+com\cesde\coursemanager\controller\CourseController.class
+com\cesde\coursemanager\repository\CourseRepository.class
+com\cesde\coursemanager\model\Course.class
